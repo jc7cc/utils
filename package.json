@@ -1,5 +1,5 @@
 {
-  "name": "utils",
+  "name": "@jc7cc/utils",
   "version": "0.0.1",
   "description": "",
   "main": "main.js",
@@ -16,5 +16,9 @@
   "bugs": {
     "url": "https://github.com/jc7cc/utils/issues"
   },
-  "homepage": "https://github.com/jc7cc/utils#readme"
+  "homepage": "https://github.com/jc7cc/utils#readme",
+  "dependencies": {
+    "mocha": "^10.2.0",
+    "web3-utils": "^1.8.2"
+  }
 }
