@@ -1,0 +1,20 @@
+{
+  "name": "utils",
+  "version": "0.0.1",
+  "description": "",
+  "main": "main.js",
+  "type": "module",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jc7cc/utils.git"
+  },
+  "author": "jc7cc",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jc7cc/utils/issues"
+  },
+  "homepage": "https://github.com/jc7cc/utils#readme"
+}
